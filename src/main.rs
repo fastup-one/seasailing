@@ -384,8 +384,8 @@ fn Hero() -> Element {
         div { class: "container",
             // Logo/Brand
             div { class: "logo",
-                span { class: "logo-gradient", "Fast" }
-                span { "Up" }
+                span { class: "logo-gradient", "Sea" }
+                span { "Sailing" }
                 span { class: "badge", "1.0" }
             }
             // Tagline
